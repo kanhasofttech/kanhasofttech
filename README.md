@@ -1,6 +1,6 @@
 ### Hi, I'm Kanhaya Lal
 
-### Java Technical Architect | 12+ Years of Experience | JavaA2Z Trainer |
+### Java Technical Architect | 12+ Years of Experience | JavaA2Z Trainer
 
 I am a Java technology professional with 12+ years of experience in designing and building enterprise applications and scalable backend systems.
 
