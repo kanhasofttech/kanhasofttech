@@ -81,10 +81,7 @@ Learn Java. Build Real Systems. Think Like an Architect.
 
 Through JavaA2Z, I focus on practical, production-oriented learning rather than only theoretical examples.
 
-### Topics include:
-
-### What I Teach
-
+### What I Teach:
 - ☕ Java & Spring Boot
 - 🧩 Microservices Architecture
 - 🔄 Kafka & Event-Driven Systems
