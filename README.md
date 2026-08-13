@@ -32,7 +32,7 @@ I also run **JavaA2Z**, where I share practical Java, Microservices and System D
 
 ### ✈️ Airline / Travel Booking — Production-Style Microservices
 
-I am building a production-style airline/travel booking platform to demonstrate how enterprise systems are designed, developed, secured, deployed and scaled.
+I built and documented a production-style airline/travel booking platform to demonstrate how enterprise systems are designed, developed, secured, deployed and scaled.
 
 ### Technology Journey
 
@@ -55,13 +55,13 @@ AWS
 Monitoring & Observability
 
 ### Planned Services
-Authentication Service
-Flight Search Service
-Inventory Service
-Booking Service
-Payment Service
-Notification Service
-API Gateway
+- 🔐 Authentication Service
+- ✈️ Flight Search Service
+- 📦 Inventory Service
+- 🎫 Booking Service
+- 💳 Payment Service
+- 🔔 Notification Service
+- 🚪 API Gateway
 
 ### Architecture Concepts
 REST APIs
@@ -83,16 +83,18 @@ Through JavaA2Z, I focus on practical, production-oriented learning rather than 
 
 ### Topics include:
 
-Java & Spring Boot
-Microservices
-Kafka
-Redis
-Docker & Kubernetes
-AWS
-System Design
-HLD & LLD
-Architecture & Design Patterns
-Interview Preparation
+### What I Teach
+
+- ☕ Java & Spring Boot
+- 🧩 Microservices Architecture
+- 🔄 Kafka & Event-Driven Systems
+- ⚡ Redis & Distributed Caching
+- 🐳 Docker & Kubernetes
+- ☁️ AWS
+- 🏗️ HLD & LLD
+- 🧠 System Design
+- 🎯 Architecture & Design Patterns
+- 💼 Interview & Career Preparation
 
 ### 📚 What I'm Currently Building
 🚀 Production-style Java Microservices projects
